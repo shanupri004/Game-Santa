@@ -1,6 +1,0 @@
-1:"$Sreact.fragment"
-2:I[42016,["/Game-Santa/_next/static/chunks/0c6932420e96e619.js","/Game-Santa/_next/static/chunks/9999c2a373441303.js"],"FinalScreen"]
-3:I[97367,["/Game-Santa/_next/static/chunks/42879de7b8087bc9.js"],"OutletBoundary"]
-4:"$Sreact.suspense"
-0:{"buildId":"wvjWQqDx5vuBsduzjmZXZ","rsc":["$","$1","c",{"children":[["$","$L2",null,{}],[["$","script","script-0",{"src":"/Game-Santa/_next/static/chunks/9999c2a373441303.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
-5:null
